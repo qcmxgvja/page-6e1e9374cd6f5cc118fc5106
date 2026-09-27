@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.gangkourc.cn/sitemap.xml
